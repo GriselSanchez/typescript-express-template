@@ -1,4 +1,4 @@
-# Typescript node template
+# Typescript Express Template
 
 ## Scripts
 
