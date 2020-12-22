@@ -2,6 +2,10 @@
 
 ## Scripts
 
+- ### `yarn start`
+
+  Runs the app in the `build` folder.
+
 - ### `yarn dev`
 
   Runs the app in dev mode on defined `PORT` in `.env` or port 8000.
@@ -9,10 +13,6 @@
 - ### `yarn build`
 
   Builds the app for production to the `build` folder.
-
-- ### `yarn start`
-
-  Runs the app in the `build` folder..
 
 - ### `yarn lint`
 
