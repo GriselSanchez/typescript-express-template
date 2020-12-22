@@ -8,7 +8,7 @@
 
 - ### `yarn dev`
 
-  Runs the app in dev mode on defined `PORT` in `.env` or port 8000.
+  Runs the app in dev mode on defined `PORT` in `.env` or port 3000.
 
 - ### `yarn build`
 
